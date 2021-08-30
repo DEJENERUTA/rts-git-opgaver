@@ -1,0 +1,42 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+	padding: 30px;
+	text-align: center;
+	background-color: #bc1a6b;
+	color: white;
+	font-size: 30px;
+}
+header * {
+	display: inline-flex;
+	justify-content: space-evenly;
+}
+
+header li {
+	margin: 20px;
+}
+h1 {
+	font-family: inherit;
+	border: none;
+	background-color: transparent;
+	color: inherit;
+	font-size: 1.4em;
+	font-weight: bold;
+	text-align: center;
+}
+
+main {
+	padding: 20px;
+	font-size: 18px;
+}
